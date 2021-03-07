@@ -8,7 +8,10 @@ I am a front-end development engineer with three years of work experience, curre
 
 #### How to reach me
 
-
+[<img src="zhihu.png" height="25px" />](https://www.zhihu.com/people/CaptainInPHW)&nbsp;
+[<img src="juejin.png" height="25px" />](https://juejin.cn/user/2488950055523965)&nbsp;&nbsp;
+[<img src="yq.png" height="22px" />](https://www.yuque.com/captainofphb)&nbsp;&nbsp;
+[<img src="dev.png" height="25px" />](https://dev.to/captainofphb)
 
 #### Languages & Tools
 
