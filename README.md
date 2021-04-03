@@ -1,6 +1,6 @@
 ## 👋 Hi, I am CaptainOfPhB 👨‍💻
 
-I am a front-end development engineer with three years of work experience, currently working in Shanghai, China.
+I am a programmer, focusing on front-end development, with three years of work experience, currently in Shanghai, China.
 
 #### Blog
 
