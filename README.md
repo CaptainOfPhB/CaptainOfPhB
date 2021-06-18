@@ -1,17 +1,10 @@
 ## 👋 Hi, I am CaptainOfPhB 👨‍💻
 
-I am a programmer, focusing on front-end development, with three years of work experience, currently in Shanghai, China.
+Focus on front-end development, currently in Shanghai, China.
 
 #### Blog
 
 [daijiangtao.name](https://daijiangtao.name) or [daijiangtao.gitee.io](https://daijiangtao.gitee.io) (mirror site).
-
-#### How to reach me
-
-[<img src="zhihu.png" height="25px" />](https://www.zhihu.com/people/CaptainInPHW)&nbsp;
-[<img src="juejin.png" height="25px" />](https://juejin.cn/user/2488950055523965)&nbsp;&nbsp;
-[<img src="yq.png" height="22px" />](https://www.yuque.com/captainofphb)&nbsp;&nbsp;
-[<img src="dev.png" height="25px" />](https://dev.to/captainofphb)
 
 #### Languages & Tools
 
