@@ -16,4 +16,5 @@ Focus on front-end development, currently in Shanghai, China.
 ![](https://img.shields.io/badge/-vue-red?style=for-the-badge&color=39aa76)
 ![](https://img.shields.io/badge/-react-red?style=for-the-badge&color=00caf6)
 ![](https://img.shields.io/badge/-webpack-red?style=for-the-badge&color=7fc9f2)
+![](https://img.shields.io/badge/-rollup-red?style=for-the-badge&color=ed2d2f)
 ![](https://img.shields.io/badge/-jest-red?style=for-the-badge&color=8a384e)
