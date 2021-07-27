@@ -2,7 +2,7 @@
 
 Focus on front-end development, currently in Shanghai, China.
 
-#### Blog
+#### How to reach me
 
 [daijiangtao.name](https://daijiangtao.name) or [daijiangtao.gitee.io](https://daijiangtao.gitee.io) (mirror site).
 
