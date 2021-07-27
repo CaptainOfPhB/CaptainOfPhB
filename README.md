@@ -2,11 +2,11 @@
 
 Focus on front-end development, currently in Shanghai, China.
 
-#### How to reach me
+### How to reach me
 
 [daijiangtao.name](https://daijiangtao.name) or [daijiangtao.gitee.io](https://daijiangtao.gitee.io) (mirror site).
 
-#### Languages & Tools
+### Languages & Tools
 
 ![](https://img.shields.io/badge/-html5-red?style=for-the-badge&color=e34f26)
 ![](https://img.shields.io/badge/-css3-red?style=for-the-badge&color=2c9cd8)
