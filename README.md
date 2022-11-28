@@ -2,4 +2,5 @@
 
 You can visit my personal site [daijiangtao.site](https://daijiangtao.site) to reach me.
 
-<a rel="me" href="https://mastodon.world/@captainofphb"> </a>
+<!-- for mastodon verify whether this is me -->
+<a rel="nofollow me" href="https://mastodon.world/@captainofphb">   </a>
