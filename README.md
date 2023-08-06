@@ -1,3 +1,3 @@
 ## 👋 Hi, I am CaptainOfPhB 👨‍💻
 
-You can visit my personal site [daijiangtao.site](https://daijiangtao.site) to reach me.
+You can visit my personal site [captainofphb.me](https://captainofphb.me) to reach me.
